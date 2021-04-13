@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnokey
+- 👋 Hi, I’m @johnokey. I come from a route-switch background.
 - 👀 I’m interested in developing software to take care of the repetitive networking stuff.
 - 🌱 My preferene is to code in python. No DSLs here.
 - 💞️ I’m looking to collaborate on ...(WIP)
