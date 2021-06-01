@@ -20,10 +20,10 @@ with open("err_f" + dt, "w") as h:
 
 # using docstring method as opposed to list
 cmd_list = (
-    'sh run',
-    'sh inven',
-    'sh cdp nei det',
-    'sh ver'
+    'show running',
+    'show inventory',
+    'show cdp neighbo detail',
+    'show version'
  )
 
 # Get list of devices
