@@ -8,7 +8,7 @@ import sys
 # DNAC_URL = env_lab.DNA_CENTER["host"]
 # DNAC_USER = env_lab.DNA_CENTER["username"]
 # DNAC_PASS = env_lab.DNA_CENTER["password"]
-host = 'https://sandboxdnac2.cisco.com'
+host = 'sandboxdnac2.cisco.com'
 username = 'devnetuser'
 password = 'Cisco123!'
 
