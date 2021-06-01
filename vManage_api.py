@@ -6,6 +6,12 @@ import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
+'''
+vmanage = 'sandboxsdwan.cisco.com'
+username = 'devnetuser'
+password = 'Cisco123!'
+'''
+
 vmanage = input("vManage UI uri: ")
 username = input("Username: ")
 password = getpass("Password: ")
