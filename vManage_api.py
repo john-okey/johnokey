@@ -9,7 +9,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 '''
 vmanage = 'sandboxsdwan.cisco.com'
 username = 'devnetuser'
-password = 'Cisco123!'
+password = '######'
 '''
 
 vmanage = input("vManage UI uri: ")
