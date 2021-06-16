@@ -20,7 +20,7 @@ if __name__ == "__main__":
     try:
         decrypt_type7(sys.argy[1])
     except IndexError:
-        # print(decrypt_type7(passwd = getpass("Provide type7 password:")))
+        # decrypt_type7(passwd = getpass("Provide type7 password:"))
         input_pw = input("Enter the type7 hashed password: ")
         decrypt_type7(input_pw)
 
