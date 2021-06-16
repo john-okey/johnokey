@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from getpass import getpass
 from netmiko import ConnectHandler
 import netmiko.ssh_exception, paramiko.ssh_exception, os, datetime
