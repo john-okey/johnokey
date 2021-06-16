@@ -2,7 +2,7 @@
 from getpass import getpass
 import json
 import requests
-#not best practice however needed as vManage uses invalid certs
+#not best practice however needed as vManage uses self signed certs
 from requests.packages.urllib3.exceptions import InsecureRequestWarning 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
