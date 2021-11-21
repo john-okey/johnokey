@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnokey. I come from a route-switch background.
-- 👀 I’m interested in developing software to take care of repetitive networking tasks, as well as post-processing analysis and actions.
-- 🌱 I have a preference to code in python as opposed to DSLs.
+- 👀 Interested in developing software to take care of repetitive networking tasks, as well as post-processing analysis and actions.
+- 🌱 
 - 💞️ I’m looking to collaborate on ...(WIP)
 - 📫 How to reach me ...
 
