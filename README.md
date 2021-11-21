@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnokey. I come from a route-switch background.
-- 👀 Interested in developing software to take care of repetitive networking tasks, as well as post-processing analysis and actions.
+- 👀 Motivated to develop software to handle repetitive networking tasks and post-processing analysis actions.
 - 🌱 
 - 💞️ I’m looking to collaborate on ...(WIP)
 - 📫 How to reach me ...
