@@ -26,7 +26,7 @@ which we can then replace with an empty string using the or operator.
 
 In the refactored code, f-strings are used to construct the URL string, which is more concise and easier 
 to read. The response.json() method is used to extract the response data, which is equivalent to using 
-json.loads(json.dumps(response.json())) as in the original code (see vmanage_api.py):
+json.loads(json.dumps(response.json())) as in the original code (see vmanage_get_inventory.py):
 """
 
 print("Hostname".center(20), end="|")
