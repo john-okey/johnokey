@@ -65,7 +65,7 @@ if __name__ == '__main__':
     with open(os.getcwd() + "/input/device_list.250521.small") as f:
         dvc_list = [i.strip() for i in f.readlines()]
     if not dvc_list:
-        print("\nThere are no devices defined in {}.\n".format(os.getcwd() + "/input/device_list.250521.small"))
+        print(f"\nThere are no devices defined in {os.getcwd()}/input/device_list.250521.small\n")
 
     jobs = []
     with futures.ThreadPoolExecutor(max_workers=10) as pool:
